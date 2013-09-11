@@ -1,6 +1,7 @@
 #include "Manager.h"
 #include <iostream>
 
+//The manager lcass is used to log employee
 Manager::Manager()
    {
    totalHours = 0;
